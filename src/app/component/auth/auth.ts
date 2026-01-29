@@ -5,7 +5,6 @@ import { Router } from '@angular/router';
 import { CommonModule } from '@angular/common';
 import { ActivatedRoute } from '@angular/router'; // ייבוא חדש
 
-
 @Component({
   selector: 'app-auth',
   standalone: true,
